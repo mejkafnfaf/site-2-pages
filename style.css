@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+
+.a{
+    text-align: center;
+}
+footer {
+    background-color: #200772;
+    color: white;
+}
+.niz{
+    border-top: 3px solid;
+    text-align: center;
+}
+.niza {
+    border-bottom: 3px solid;
+    text-align: center;
+}
+.family {
+    color: red;
+}
+.list{
+    list-style: url("https://learn.algoritmika.org/uploads/2021/01/Arrow%201_0_1611261359.svg")
+}
+.tut{
+        border: 10px solid yellow;
+        border-radius: 10px;
+        background-color: yellow;
+
+}
+
+.ad{
+    background-color: silver;
+}
